@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-how are u?
+🔭 I’m currently studying Mechanical Engineering at ETH Zurich, these repos mostly contain older projects.
+My current intrests lie in embedded systems and robotics.
+
 
 go look at my [Neovim Config](https://github.com/PaltosLP/nvim#readme) :)
 
