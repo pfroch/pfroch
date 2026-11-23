@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently studying Mechanical Engineering at ETH Zurich, these repos mostly contain older projects.
 My current intrests lie in embedded systems and robotics.
-
-
-go look at my [Neovim Config](https://github.com/PaltosLP/nvim#readme) :)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfroch&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
